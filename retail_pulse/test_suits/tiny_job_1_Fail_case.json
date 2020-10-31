@@ -1,0 +1,29 @@
+{
+   "count":3,
+   "visits":[
+      {
+         "store_id":"S01306137",
+         "image_url":[
+            "https://www.gstatic.com/webp/gallery/2.jpg",
+            "https://www.gstatic.com/webp/gallery/3.jpg"
+         ],
+         "visit_time":"1603879698000"
+      },
+      {
+         "store_id":"S01306141",
+         "image_url":[
+            "https://www.gstatic.com/webp/gallery/3.jpg"
+         ],
+         "visit_time":"1603879698000"
+      },
+      {
+         "store_id":"S01306187",
+         "image_url":[
+            "https://www.gstatic.com/webp/gallery/2.jpg",
+            "https://www.gstatic.com/webp/gallery3/3.jpg",
+            "https://images.unsplash.com/photo-1526470498-9ae73c665de8?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb"
+         ],
+        "visit_time":"1603879698000"
+      }
+   ]
+}

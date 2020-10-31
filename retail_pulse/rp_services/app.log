@@ -1,0 +1,8 @@
+31-Oct-20 15:03:29 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+31-Oct-20 15:03:38 - /upload request entry by unique requester Id: 
+31-Oct-20 15:03:38 - {} requested with file , requesting: 
+31-Oct-20 15:03:38 - 127.0.0.1 - - [31/Oct/2020 15:03:38] "[37mPOST /api/submit HTTP/1.1[0m" 201 -
+31-Oct-20 15:04:17 - 127.0.0.1 - - [31/Oct/2020 15:04:17] "[37mGET /api/status?jobid=1004 HTTP/1.1[0m" 200 -
+31-Oct-20 15:04:23 - 127.0.0.1 - - [31/Oct/2020 15:04:23] "[31m[1mGET /api/status?jobid=1009 HTTP/1.1[0m" 400 -
+31-Oct-20 15:04:50 - Received visit info request for Area: 710006, Between 2020-09-29 and 2020-11-11
+31-Oct-20 15:04:50 - 127.0.0.1 - - [31/Oct/2020 15:04:50] "[37mGET /api/visits?area=710006&storeid=S01408730&startDate=2020-09-29&endDate=2020-11-11 HTTP/1.1[0m" 200 -
